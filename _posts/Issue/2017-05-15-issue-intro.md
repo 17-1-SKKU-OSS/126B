@@ -3,7 +3,7 @@ layout: post
 title:  이슈 카테고리 소개
 date:   2017-05-15 22:17:00
 comments: false
-categories: Homepage
+categories: Issue
 ---
 
 # Category Intro: Issue
