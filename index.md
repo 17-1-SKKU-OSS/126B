@@ -2,7 +2,6 @@
 layout: frontpage
 ---
 
-## Welcome to my website
+## 성균관대학교 오픈소스소프트웨어실습 126B 팀 홈페이지
 
-This is the place where I share my ideas on topics like [Paracraft](http://www.paracraft.cn) software design, artificial intelligence and education. 
-Feel free to send me emails or join our team. 
+멤버: 최아영, 이창훈, 장문석
