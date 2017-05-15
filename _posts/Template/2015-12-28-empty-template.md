@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-categories: npl
+categories: Template
 ---
 
 ## Empty npl tutorial template
