@@ -9,9 +9,9 @@ permalink: /about/
 {:toc}
 
 ## About
-Team 126B Github Page
-프로젝트 일지 작성 페이지
-저장소는 [이곳](https://github.com/17-1-SKKU-OSS/126B)
+* Team 126B Github Page
+* 프로젝트 일지 작성 페이지
+* 저장소는 [이곳](https://github.com/17-1-SKKU-OSS/126B)
 
 ### Contents
 * 프로젝트 기여
