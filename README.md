@@ -1,6 +1,6 @@
 # SKKU OSS Team 126B
 
-Homepage: [Link](https://github.com/17-1-SKKU-OSS/126B.git)
+Homepage: [Link](https://17-1-skku-oss.github.io/126B/)
 
 Runing on Github + Jekyll theme by [Gaohaoyang](https://github.com/Gaohaoyang/gaohaoyang.github.io)**
 
