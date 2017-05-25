@@ -6,8 +6,6 @@ comments: false
 categories: Contribution
 ---
 
-# 기여 프로젝트 확정: Tiled
-
 작성자: 최아영
 
 ## 기여 프로젝트 변경 및 확정

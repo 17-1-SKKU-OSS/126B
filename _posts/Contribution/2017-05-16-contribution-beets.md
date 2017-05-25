@@ -1,12 +1,10 @@
 ---
 layout: post
-title:  0516 Fork 및 Pull Request 실습
+title:  0516 실습 내용 정리
 date:   2017-05-16
 comments: false
 categories: Contribution
 ---
-
-# 0516 실습 정리
 
 작성자: 최아영
 
