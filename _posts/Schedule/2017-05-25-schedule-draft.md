@@ -6,6 +6,8 @@ comments: false
 categories: Schedule
 ---
 
+작성자: 최아영
+
 ## 수업 계획
 
 * 5/30: 	활동 실습
