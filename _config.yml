@@ -1,21 +1,21 @@
 # Site settings
 title: SKKU OSS Team 126B
 email: miru2533@skku.edu
-description: Xizhi's Ideas & Blogs
+description: SKKU OSS
 # > # this means to ignore newlines until "baseurl:"
 #   Write an awesome description for your new site here. You can edit this
 #   line in _config.yml. It will appear in your document head meta (for
 #   Google search results) and in your feed.xml site description.
 
 # baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://17-1-skku-oss.github.io/126B" # the base hostname & protocol for your site
+url: "https://github.com/17-1-SKKU-OSS/126B" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username: 17-1-SKKU-OSS/126B
 permalink: /:year/:month/:day/:title/
 # this is the url root of the view source link on the footer page.
-# viewsourceroot: https://github.com/17-1-SKKU-OSS/126B
+viewsourceroot: https://github.com/17-1-SKKU-OSS/126B
 # this is the url root of the create page link on the footer page.
-# newsourceroot: https://github.com/17-1-SKKU-OSS/126B/tree/gh-pages
+newsourceroot: https://github.com/17-1-SKKU-OSS/126B/tree/gh-pages
 #########################################
 # for duoshuo.com commenting system, uncomment following line if you do not want to include duoshuo.com. 
 #duoshuo_shortname: lixizhi
