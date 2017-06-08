@@ -20,7 +20,7 @@ layout: default
       <div class="post-list-body">
         <div class="all-posts" post-cate="All">
           {% for post in site.posts %}
-            <a class="post-list-item" href="{{ post.url }}">
+            <a class="post-list-item" href="{{ post.url | prepend: site.baseurl }}">
               <h2>
               {{ post.title }}
               </h2>
@@ -34,7 +34,7 @@ layout: default
             {% for posts in category  %}
               {% for post in posts %}
                 {% if post.url %}
-                  <a class="post-list-item" href="/126B/{{ post.url }}">
+                  <a class="post-list-item" href="{{ post.url | prepend: site.baseurl }}">
                     <h2>
                     {{ post.title }}
                     </h2>
