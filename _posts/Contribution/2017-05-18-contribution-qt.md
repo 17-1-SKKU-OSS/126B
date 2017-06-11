@@ -15,7 +15,7 @@ Qt는 컴퓨터 프로그래밍에서 GUI 프로그램 개발에 널리 쓰이�
 Tiled는 이 Qt를 사용하여 만들어진 프로그램이다.
 
 ## Qt linguist
-![linguist](https://17-1-skku-oss.github.io/126B/images/linquist.png)
+![linguist](https://17-1-skku-oss.github.io/126B/images/linguist.png)
 
 [다운로드](http://www.softpedia.com/get/Others/Home-Education/Qt-Linguist.shtml)
 
@@ -39,12 +39,12 @@ Tiled는 번역 기여시 이 Qt linquist를 이용해 tiled_en.ts 파일을 번
 
 ### 번역 미완료
 
-![linguist](https://17-1-skku-oss.github.io/126B/images/icon_finished.png)
+![linguist](https://17-1-skku-oss.github.io/126B/images/icon_unfinished.png)
 
 번역하였으나 완료는 아님
 
 ### 번역 안됨
 
-![linguist](https://17-1-skku-oss.github.io/126B/images/icon_unfinished.png)
+![linguist](https://17-1-skku-oss.github.io/126B/images/icon_not.png)
 
 번역되지 않은 상태
