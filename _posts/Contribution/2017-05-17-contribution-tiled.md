@@ -20,7 +20,11 @@ categories: Contribution
 
 ## Tiled 프로젝트에 대해
 
-홈페이지: [Tiled](http://www.mapeditor.org/)
+![Tiled](https://17-1-skku-oss.github.io/126B/images/tiled.png)
+
+[홈페이지](http://www.mapeditor.org/)
+
+[깃허브 페이지](https://github.com/bjorn/tiled)
 
 Tiled는 Tile Map 게임의 맵 디자인을 할 수 있는 툴이다. 
 
