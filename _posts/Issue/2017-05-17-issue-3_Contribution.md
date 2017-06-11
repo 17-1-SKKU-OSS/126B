@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Issue: 기여 프로젝트
+title:  Issue - 기여 프로젝트
 date:   2017-05-17 21:31:00
 comments: false
 categories: Issue
