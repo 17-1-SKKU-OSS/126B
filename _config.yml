@@ -9,6 +9,7 @@ description: SKKU OSS
 
 #baseurl: "/126B/" # the subpath of your site, e.g. /blog/
 #url: "https://github.com/17-1-SKKU-OSS/126B" # the base hostname & protocol for your site
+site: https://17-1-skku-oss.github.io/126B/
 # twitter_username: jekyllrb
 github_username: 17-1-SKKU-OSS/126B
 permalink: /:year/:month/:day/:title/
