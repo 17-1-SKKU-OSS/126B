@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  0519 첫번째 번역
+title:  0519 첫번째 번역 - 최아영
 date:   2017-05-19
 comments: false
 categories: Contribution
@@ -8,7 +8,7 @@ categories: Contribution
 
 작성자: 최아영
 
-## PR 1
+## PR 1: 최아영
 
 번역 툴인 QT linquist에 대한 감을 키우기 위해 프로그램을 설치하여 tiled_ko.ts 파일을 생성하여 어느정도 번역을 하였다.
 
