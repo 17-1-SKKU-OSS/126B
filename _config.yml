@@ -8,7 +8,7 @@ description: SKKU OSS
 #   Google search results) and in your feed.xml site description.
 
 #baseurl: "/126B/" # the subpath of your site, e.g. /blog/
-url: "https://github.com/17-1-SKKU-OSS/126B" # the base hostname & protocol for your site
+#url: "https://github.com/17-1-SKKU-OSS/126B" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username: 17-1-SKKU-OSS/126B
 permalink: /:year/:month/:day/:title/
