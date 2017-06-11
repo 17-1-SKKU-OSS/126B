@@ -2,6 +2,7 @@
 layout: post
 title:  0611 링크 에러(Fixed)
 date:   2017-06-11 00:10:00
+auther: 최아영
 comments: false
 categories: Homepage
 ---
