@@ -14,7 +14,7 @@ site: https://17-1-skku-oss.github.io/126B/
 github_username: 17-1-SKKU-OSS/126B
 permalink: /:year/:month/:day/:title/
 # this is the url root of the view source link on the footer page.
-viewsourceroot: https://github.com/17-1-SKKU-OSS/126B/
+viewsourceroot: https://github.com/17-1-SKKU-OSS/126B/tree/gh-pages
 # this is the url root of the create page link on the footer page.
 newsourceroot: https://github.com/17-1-SKKU-OSS/126B/tree/gh-pages
 #########################################
