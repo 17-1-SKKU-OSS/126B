@@ -19,3 +19,5 @@ categories: Homepage
 
 [지킬 메뉴얼](https://jekyllrb.com/docs/variables/)을 통해 이를 알 수 있었으며, 
 site 변수를 제대로 설정하여 이 에러를 고칠 수 있었다.
+
+> site: https://17-1-skku-oss.github.io/126B/
