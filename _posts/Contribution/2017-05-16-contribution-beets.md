@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  [기여] 0516 실습 내용 정리
+title:  0516 실습 내용 정리
 date:   2017-05-16
 comments: false
 categories: Contribution
