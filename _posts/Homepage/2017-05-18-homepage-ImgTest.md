@@ -9,4 +9,4 @@ categories: Homepage
 작성자: 최아영
 
 ## 이미지 삽입 테스트
-<span class="image featured"><img src="/images/test.jpg" alt=""></span>
+![My helpful screenshot](https://17-1-skku-oss.github.io/126B/images/test.jpg)
