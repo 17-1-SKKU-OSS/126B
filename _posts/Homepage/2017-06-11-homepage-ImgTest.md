@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  이미지 삽입 테스트
-date:   2017-06-01
+title:  0611 이미지 삽입 테스트
+date:   2017-06-11 00:00:00
 comments: false
 categories: Homepage
 ---

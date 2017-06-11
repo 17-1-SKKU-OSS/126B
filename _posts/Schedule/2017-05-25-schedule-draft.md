@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  일정 초안
+title:  0525 일정 초안
 date:   2017-05-25 13:43:00
 comments: false
 categories: Schedule

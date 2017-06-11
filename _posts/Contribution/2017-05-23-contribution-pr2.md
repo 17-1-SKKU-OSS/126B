@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  번역 상태 전환
+title:  0523 번역 상태 전환
 date:   2017-05-19
 comments: false
 categories: Contribution
