@@ -7,6 +7,7 @@ body {
     font-family: "NanumGothic";
 		  src: url( '../fonts/NanumGothic.ttf') format( 'truetype');
 }
+
 article p{
 	/*text-indent: 2em;*/
 }
