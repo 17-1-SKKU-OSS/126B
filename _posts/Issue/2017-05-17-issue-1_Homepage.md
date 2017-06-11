@@ -13,4 +13,14 @@ categories: Issue
 * 05/16 Wiki 테마로 변경
 
 ## Issue: 사이트 관리
-* 
+* 05/30 링크 오류 발견 및 수정 요청
+
+![site1](https://17-1-skku-oss.github.io/126B/images/issue/site1.png)
+
+* 06/11 링크 오류 수정
+
+![site1_1](https://17-1-skku-oss.github.io/126B/images/issue/site1.png)
+
+* 06/11 favicon과 배경 설정
+
+![site2](https://17-1-skku-oss.github.io/126B/images/issue/site2.png)
