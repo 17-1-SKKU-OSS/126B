@@ -16,13 +16,19 @@ categories: Issue
 
 ![tr1](https://17-1-skku-oss.github.io/126B/images/issue/tr1.png)
 
+
+
 * 06/01 Stagger Axis 번역 표현 논의: 'Stagger 축'으로 번역하기로 결정
 
 ![tr2](https://17-1-skku-oss.github.io/126B/images/issue/tr2.png)
 
+
+
 * 06/05 %n 관련 논의
 
 ![tr3](https://17-1-skku-oss.github.io/126B/images/issue/tr3.png)
+
+
 
 * 06/05 'Tiled::internal' 파트 번역: 이창훈
 * 06/05 'Tiled::internal' 이외 파트 번역: 최아영
@@ -33,11 +39,18 @@ categories: Issue
 ![tr4](https://17-1-skku-oss.github.io/126B/images/issue/tr4.png)
 
 
+
+
+
 ## Issue: 번역 표현 논의
 * 06/06 번역 표현 관련 4가지 논의 사항 제안
 
 ![trp1](https://17-1-skku-oss.github.io/126B/images/issue/trp1.png)
 
+
+
 * 06/09 여러 번역 표현 논의
+
+
 
 ![trp2](https://17-1-skku-oss.github.io/126B/images/issue/trp2.png)
