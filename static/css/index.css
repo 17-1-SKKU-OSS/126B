@@ -4,8 +4,8 @@
 /* commom */
 body {
 	background-image: url(https://17-1-skku-oss.github.io/126B/images/canvas_bg.png);
-    font-family: "NanumGothic";
-		  src: url( '../fonts/NanumGothic.ttf') format( 'truetype');
+    font-family: "GodoM";
+		  src: url( '../fonts/GodoM.ttf') format( 'truetype');
 }
 article p{
 	/*text-indent: 2em;*/

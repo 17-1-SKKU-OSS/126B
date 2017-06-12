@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  0607 Tiled-internal 파트 번역 검수
+title:  0607 Tiled-internal 파트 번역 검수-최아영
 date:   2017-06-07 00:10:00
 comments: false
 categories: Contribution
