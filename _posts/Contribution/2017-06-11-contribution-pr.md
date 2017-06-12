@@ -28,6 +28,14 @@ Thumbs.db는 파일의 미리 보기 로딩 시간을 줄이기 위해 자동으
 
 ![prt2](https://17-1-skku-oss.github.io/126B/images/prt2.png)
 
+다음날 보낸 커밋을 squash해도 되냐고 물어보았고, 답변을 받자 우리의 번역 파일을 merge하였다.
+
+![prt3](https://17-1-skku-oss.github.io/126B/images/prt3.png)
+
+또한 프로젝트 기여자 명단에 수록될 수 있었다.
+
+![prt4](https://17-1-skku-oss.github.io/126B/images/prt4.png)
+
 ## PR 수정
 
 Fork한 저장소에서 원본 저장소에 PR을 보낸후 Fork한 저장소에 변경사항이 있을 경우,
