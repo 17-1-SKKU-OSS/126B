@@ -28,6 +28,7 @@ Tiled는 번역 기여시 이 Qt linquist를 이용해 tiled_en.ts 파일을 번
 ### 번역 방법
 * Qt Linguist에서 `translations/tiled_en.ts`를 연다.
 * `Edit -> Translation File Settings...`에서 Target Language를 바꾼다.
+
 ![lin1](https://17-1-skku-oss.github.io/126B/images/lin1.png)
 * 파일을 `tiled_ko.ts`로 저장한다.
 * 문자열을 번역하고 업데이트한다.
