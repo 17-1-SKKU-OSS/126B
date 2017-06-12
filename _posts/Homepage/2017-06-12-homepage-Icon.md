@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  0611 아이콘 수정 (Fixed)
-date:   2017-06-11 00:20:00
+title:  0612 아이콘 수정 (Fixed)
+date:   2017-06-12 00:20:00
 auther: 최아영
 comments: false
 categories: Homepage
